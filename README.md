@@ -1,1 +1,1 @@
-Simple linear regression for football betting.
+Simple AI algorithm for learning.
